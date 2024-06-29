@@ -3,3 +3,6 @@
 genre_classifier.json
 .venv/
 .python-version
+.cache/
+.DS_Store
+.gitattributes
