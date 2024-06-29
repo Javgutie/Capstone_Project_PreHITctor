@@ -1,6 +1,4 @@
-.venv/
 *.dylib
 .env
 genre_classifier.json
-.venv/
 .venv/
