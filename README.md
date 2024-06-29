@@ -8,7 +8,7 @@ The project is organized into three Jupyter notebooks and three Python files:
 
 - 03_genre_classifier_model.ipynb, 04_hit_predictor_genre_classifier_app.py, genre_classification_data.py, and genre_classifier_functions.py correspond to the genre classifier subproject. 
 
-You should run genre_classification_data.py only if you have the complete audio dataset in a folder called music_dataset and you want to generate the MFCCs file. I wanted to push this file to the repository, but it was too large. Send me a message, and I will provide it to you. Without this file, you cannot construct the genre classifier model (which is already included in the models folder anyway)
+You should run genre_classification_data.py only if you have the complete audio dataset in a folder called music_dataset and you want to generate the MFCCs file. I wanted to push this file to the repository, but it was too large. Send me a message, and I will provide it to you. Without this file, you cannot construct the genre classifier model (which is already included in the models folder anyway as genre_classifier.keras)
 
 The performance of both subprojects is visualized through a web app contained in the 04_hit_predictor_genre_classifier_app.py file. You can run the app by typing streamlit run 04_hit_predictor_genre_classifier_app.py in the terminal. This command opens the web app, as shown in the following image, where you can input the artist and song to be predicted and classified.
 
