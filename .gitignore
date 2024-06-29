@@ -2,3 +2,4 @@
 .env
 genre_classifier.json
 .venv/
+.python-version
