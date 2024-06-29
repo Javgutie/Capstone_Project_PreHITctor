@@ -22,7 +22,7 @@ After entering the artist and the song (and pressing Enter), the results of the 
 
 - To predict whether a song will be a hit or flop, the song must be on Spotify.
 - To classify the genre of a song, the song must be on YouTube.
-- The project is designed primarily for new artists with already produced songs within mainstream and/or non-avant-garde genres. You need to add your Spotify CLIENT_ID and CLIENT_SECRET in an .env file (which should be placed in the root directory of the project). If you are an artist with a song on Spotify, check your success possibilities with the app!.
+- The project is designed primarily for new artists with already produced songs within mainstream and/or non-avant-garde genres. You need to add your Spotify CLIENT_ID and CLIENT_SECRET in an .env file (which should be placed in the root directory of the project). If you are an artist with a song on Spotify, check your success possibilities with the app! :).
 
 
 
